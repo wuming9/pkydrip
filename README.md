@@ -1,0 +1,2 @@
+# pkydrip
+static
